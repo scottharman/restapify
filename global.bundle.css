@@ -1,0 +1,117 @@
+h1.svelte-8od9u6, p.svelte-8od9u6 {
+  margin: 0 auto; }
+
+h1.svelte-8od9u6 {
+  font-size: 2.8em;
+  font-weight: 700;
+  margin: 0 0 0.5em 0; }
+
+p.svelte-8od9u6 {
+  margin: 1em auto; }
+
+@media (min-width: 480px) {
+  h1.svelte-8od9u6 {
+    font-size: 4em; } }
+
+main.svelte-4uda58 {
+  position: relative;
+  margin: 0 auto;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  overflow: hidden;
+  flex-grow: 1;
+  width: 100%; }
+
+h1.svelte-1kk9opm {
+  text-align: center;
+  margin: 0 auto; }
+
+h1.svelte-1kk9opm {
+  font-size: 2.8em;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 0 0 0.5em 0; }
+
+@media (min-width: 480px) {
+  h1.svelte-1kk9opm {
+    font-size: 4em; } }
+
+#wrapper.svelte-zrie2s {
+  height: 100%; }
+
+#wrapper.svelte-zrie2s *:not(pre) > code {
+  color: white !important;
+  padding: .2em .4em;
+  font-size: 80%;
+  background-color: #3F3F3F;
+  border-radius: .25rem;
+  white-space: nowrap; }
+
+#sidebar.svelte-zrie2s {
+  min-width: 20vw;
+  height: 100%;
+  overflow: auto;
+  padding-right: 1rem; }
+
+#sidebar.svelte-zrie2s a {
+  white-space: nowrap;
+  color: black;
+  text-decoration: none; }
+
+#sidebar.svelte-zrie2s a:focus, #sidebar.svelte-zrie2s a:hover {
+  text-decoration: underline; }
+
+#sidebar.svelte-zrie2s a {
+  white-space: nowrap;
+  color: black;
+  text-decoration: none; }
+
+#sidebar.svelte-zrie2s > ul > li {
+  margin-top: 1em; }
+
+#sidebar.svelte-zrie2s > ul > li > a {
+  font-weight: bold; }
+
+#sidebar.svelte-zrie2s ul {
+  padding-left: 1rem; }
+
+#sidebar.svelte-zrie2s li {
+  list-style: none; }
+
+#docs.svelte-zrie2s {
+  flex-grow: 1;
+  height: 100%;
+  overflow: auto;
+  scroll-behavior: smooth;
+  max-width: 70vw; }
+
+#docs.svelte-zrie2s h2:not(:first-of-type) {
+  margin-top: 40vh; }
+
+#docs.svelte-zrie2s h2:not(:first-of-type)::before {
+  content: "";
+  display: inline-block;
+  width: 100%;
+  height: 2px;
+  background-color: lightgray;
+  margin-bottom: 1rem; }
+
+#docs.svelte-zrie2s ul:first-of-type {
+  display: none; }
+
+#docs.svelte-zrie2s blockquote p {
+  margin: 0; }
+
+li.svelte-ij56jx.svelte-ij56jx {
+  display: block; }
+
+nav.svelte-ij56jx.svelte-ij56jx {
+  z-index: 1; }
+
+.navbar-brand.svelte-ij56jx img.svelte-ij56jx {
+  width: 25%; }
+
+a.svelte-ij56jx.svelte-ij56jx {
+  text-decoration: none;
+  padding: 1em 0.5em;
+  display: block; }
