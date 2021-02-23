@@ -34,54 +34,54 @@ p.svelte-8od9u6 {
   height: 100%;
   overflow: auto; }
 
-#wrapper.svelte-11uqcyf.svelte-11uqcyf {
+#wrapper.svelte-1hb9u9u.svelte-1hb9u9u {
   height: 100%; }
 
-#sidebar.svelte-11uqcyf.svelte-11uqcyf {
+#sidebar.svelte-1hb9u9u.svelte-1hb9u9u {
   position: relative;
   min-width: 20vw;
   height: 100%;
   overflow: auto;
   padding-right: 1rem; }
 
-#sidebar.svelte-11uqcyf a {
+#sidebar.svelte-1hb9u9u a {
   white-space: nowrap;
   color: black;
   text-decoration: none; }
 
-#sidebar.svelte-11uqcyf a:focus, #sidebar.svelte-11uqcyf a:hover {
+#sidebar.svelte-1hb9u9u a:focus, #sidebar.svelte-1hb9u9u a:hover {
   text-decoration: underline; }
 
-#sidebar.svelte-11uqcyf a {
+#sidebar.svelte-1hb9u9u a {
   white-space: nowrap;
   color: black;
   text-decoration: none; }
 
-#sidebar.svelte-11uqcyf > ul > li {
+#sidebar.svelte-1hb9u9u > ul > li {
   margin-top: 1em; }
 
-#sidebar.svelte-11uqcyf > ul > li > a {
+#sidebar.svelte-1hb9u9u > ul > li > a {
   font-weight: bold; }
 
-#sidebar.svelte-11uqcyf ul {
+#sidebar.svelte-1hb9u9u ul {
   padding-left: 1rem; }
 
-#sidebar.svelte-11uqcyf li {
+#sidebar.svelte-1hb9u9u li {
   list-style: none; }
 
-#docs.svelte-11uqcyf.svelte-11uqcyf {
+#docs.svelte-1hb9u9u.svelte-1hb9u9u {
   flex-grow: 1;
   height: 100%;
   overflow: auto;
   scroll-behavior: smooth; }
 
-#docs.svelte-11uqcyf a.btn:hover img.svelte-11uqcyf {
+#docs.svelte-1hb9u9u a.btn:hover img.svelte-1hb9u9u {
   filter: invert(100%); }
 
-#docs.svelte-11uqcyf h2:not(:first-of-type) {
+#docs.svelte-1hb9u9u h2:not(:first-of-type) {
   margin-top: 40vh; }
 
-#docs.svelte-11uqcyf h2:not(:first-of-type)::before {
+#docs.svelte-1hb9u9u h2:not(:first-of-type)::before {
   content: "";
   display: inline-block;
   width: 100%;
@@ -89,21 +89,18 @@ p.svelte-8od9u6 {
   background-color: lightgray;
   margin-bottom: 1rem; }
 
-#docs.svelte-11uqcyf ul:first-of-type {
-  display: none; }
-
-#docs.svelte-11uqcyf blockquote p {
+#docs.svelte-1hb9u9u blockquote p {
   margin: 0; }
 
-#toggleSidebarBtn.svelte-11uqcyf.svelte-11uqcyf {
+#toggleSidebarBtn.svelte-1hb9u9u.svelte-1hb9u9u {
   width: fit-content;
   z-index: 2; }
 
-#toggleSidebarBtn.svelte-11uqcyf img, #closeSidebarBtn.svelte-11uqcyf img {
+#toggleSidebarBtn.svelte-1hb9u9u img, #closeSidebarBtn.svelte-1hb9u9u img {
   width: 1.5em; }
 
 @media (max-width: 768px) {
-  #sidebar.svelte-11uqcyf.svelte-11uqcyf {
+  #sidebar.svelte-1hb9u9u.svelte-1hb9u9u {
     position: absolute;
     z-index: 1; } }
 
