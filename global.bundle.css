@@ -104,27 +104,34 @@ p.svelte-8od9u6 {
     position: absolute;
     z-index: 1; } }
 
-h1.svelte-c735tm.svelte-c735tm {
+.navbar.svelte-124d4rd.svelte-124d4rd {
+  position: relative;
+  display: inline-block; }
+
+h1.svelte-124d4rd.svelte-124d4rd {
   line-height: 2.5em; }
 
-#brand.svelte-c735tm img.svelte-c735tm {
+#brand.svelte-124d4rd.svelte-124d4rd {
+  position: absolute; }
+
+#brand.svelte-124d4rd img.svelte-124d4rd {
   min-width: 7vw; }
 
 @media (min-width: 992px) {
-  #brand.svelte-c735tm img.svelte-c735tm {
+  #brand.svelte-124d4rd img.svelte-124d4rd {
     min-width: 5vw; } }
 
 @media (max-width: 767.98px) {
-  #brand.svelte-c735tm img.svelte-c735tm {
+  #brand.svelte-124d4rd img.svelte-124d4rd {
     min-width: 15vw; } }
 
-li.svelte-c735tm.svelte-c735tm {
+li.svelte-124d4rd.svelte-124d4rd {
   display: block; }
 
-nav.svelte-c735tm.svelte-c735tm {
+nav.svelte-124d4rd.svelte-124d4rd {
   z-index: 2; }
 
-a.svelte-c735tm.svelte-c735tm {
+a.svelte-124d4rd.svelte-124d4rd {
   display: block;
   text-decoration: none;
   padding: 1em 0.5em;
@@ -171,8 +178,9 @@ header.svelte-kkpmth #filesTree.svelte-kkpmth img {
     transform: rotate(90deg);
     margin: 1em 0; } }
 
-img.svelte-1w3h9yq {
-  width: 1em; }
+img.svelte-13iy3ld {
+  width: 1em;
+  height: 1em; }
 
 button.svelte-us4pyf {
   border: none;
